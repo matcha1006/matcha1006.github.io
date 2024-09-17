@@ -2,43 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.mocha6.top/categories/index.html</loc>
-    
-    <lastmod>2024-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.mocha6.top/tags/index.html</loc>
-    
-    <lastmod>2024-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mocha6.top/box/animation/index.html</loc>
-    
-    <lastmod>2024-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mocha6.top/box/gallery/index.html</loc>
-    
-    <lastmod>2024-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mocha6.top/box/nav/index.html</loc>
     
     <lastmod>2024-09-17</lastmod>
     
@@ -137,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.mocha6.top/posts/2013454d.html</loc>
+    <loc>https://www.mocha6.top/categories/index.html</loc>
     
     <lastmod>2024-09-17</lastmod>
     
@@ -146,7 +110,34 @@
   </url>
   
   <url>
-    <loc>https://www.mocha6.top/posts/d87f7e0c.html</loc>
+    <loc>https://www.mocha6.top/box/animation/index.html</loc>
+    
+    <lastmod>2024-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mocha6.top/box/gallery/index.html</loc>
+    
+    <lastmod>2024-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mocha6.top/box/nav/index.html</loc>
+    
+    <lastmod>2024-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mocha6.top/posts/2013454d.html</loc>
     
     <lastmod>2024-09-17</lastmod>
     
